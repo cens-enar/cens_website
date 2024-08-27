@@ -1,0 +1,36 @@
+---
+about:
+  template: jolla
+  image-shape: rectangle
+  id: about-block
+  image: "img/CENS_logo.png"
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://x.com/cens_enar
+    - icon: instagram
+      text: Instagram
+      href: https://www.instagram.com/cens_enar/
+    - icon: github
+      text: Github
+      href: https://github.com/marvinschmitt
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/groups/12246846/
+    - icon: envelope
+      text: Email
+      href: "mailto:mail.cens.enar@gmail.com"  
+---
+
+::: {#about-block}
+:::
+
+# Welcome to the ENAR CENS website!
+
+The **Council for Emerging and New Statisticians (CENS)** was formed in 2012 by ENAR's Regional Advisory Board (RAB) to help ENAR better address the needs of all students and recent graduates. On this website, you will find information about CENS and our members, as well as events and materials. We look forward to your involvement in ENAR CENS!
+
+```{=html}
+<div  style="margin: 30px; text-align: center;">
+<a class="btn btn-primary" href="https://www.enar.org/" role="button" target="_blank" style="padding: 15px 30px;">Link to the ENAR website</a>
+</div>
+```

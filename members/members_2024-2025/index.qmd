@@ -1,0 +1,39 @@
+---
+title: "Members"
+---
+
+## CENS Comittee
+
+#### RAB Liaison
+
+Name\
+Affiliation\
+*Special Role*
+
+------------------------------------------------------------------------
+
+#### Steering Committee 2024-2025
+
+Name\
+Affiliation\
+*Special Role*
+
+Name\
+Affiliation\
+*Special Role*
+
+Name\
+Affiliation\
+*Special Role*
+
+Name\
+Affiliation\
+*Special Role*
+
+------------------------------------------------------------------------
+
+#### CENS Members
+
+![](headshots/KAH_Webb_headshot.jpg){style="float:left; margin-right: 15px;" width="100"} Kimberly Webb\
+Assistant Professor of Medicine, University of Pittsburgh\
+*Social Media Co-Chair*
