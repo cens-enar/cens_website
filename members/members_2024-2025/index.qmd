@@ -14,6 +14,7 @@ Affiliation\
 
 #### Steering Committee 2024-2025
 
+::: {layout-ncol=2}
 Name\
 Affiliation\
 *Special Role*
@@ -29,6 +30,8 @@ Affiliation\
 Name\
 Affiliation\
 *Special Role*
+:::
+
 
 ------------------------------------------------------------------------
 

@@ -2,16 +2,16 @@
 
 # website settings
 website:
-  title: "ENAR CENS"                                # Your name
+  title: "CENS"                                # Your name
   description: "Council for Emerging and New Statisticians (CENS) within ENAR"   # A brief slogan (optional)
-  image: img/CENS_logo.png
+  image: img/ENAR Logo_1024x1024.png
   
   favicon: img/CENS_logo.png
   
   # start of the navigation bar at the top of the website
   navbar:
     pinned: true
-    logo: /img/CENS_logo.png
+    logo: /img/ENAR Logo_1024x1024.png
     
     # your sub-pages
     left:
@@ -46,11 +46,9 @@ website:
     type: textbox
   page-footer: 
     left: |
-      <span class="faux-block">&#169; 2023 Marvin Schmitt CC BY-SA 4.0</span>
-    center: |
-      <span class="faux-block"><a href="https://www.marvinschmitt.com/blog/website-tutorial-quarto/">View the tutorial for this template!</a></span>
+      <span class="faux-block">&#169; 2024 ENAR CENS CC BY-SA 4.0</span>
     right: |
-      <span class="faux-block"><a href="https://github.com/marvinschmitt/quarto-website-template/">View source on GitHub</a></span>
+      <span class="faux-block"><a href="https://github.com/UPDATE ME!!!!">View source on GitHub</a></span>
 
 project:
   type: website
