@@ -2,7 +2,10 @@
 title: "Members"
 ---
 
-## CENS Comittee
+## CENS Committee
+
+![](GIF.gif)
+------------------------------------------------------------------------
 
 #### RAB Liaison
 
