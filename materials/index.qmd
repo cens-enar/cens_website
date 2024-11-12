@@ -7,9 +7,3 @@ title: Materials
 Slides from Session ABC
 
 Handouts from Session DEF
-
-## Awards and Opportunities
-
-1. Student Paper Competition
-2. ASA Early Career Travel Grant
-3. Other Things (help me out here)

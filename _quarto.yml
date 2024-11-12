@@ -21,10 +21,12 @@ website:
         href: members/members_2024-2025/index.qmd
       - text: "Events"
         href: events/index.qmd
+      - text: "Awards and Opportunities"
+        href: awards-and-opportunities/index.qmd
       - text: "Materials"
         href: materials/index.qmd
-      - text: "Join Us!"
-        href: apply/index.qmd
+      - text: "Contact Us!"
+        href: contact/index.qmd
     
     # your social media handles
     right:

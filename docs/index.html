@@ -65,6 +65,35 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
+  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 </head>
 
@@ -101,12 +130,16 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">Events</span></a>
   </li>  
   <li class="nav-item">
+    <a class="nav-link" href="./awards-and-opportunities/index.html"> 
+<span class="menu-text">Awards and Opportunities</span></a>
+  </li>  
+  <li class="nav-item">
     <a class="nav-link" href="./materials/index.html"> 
 <span class="menu-text">Materials</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./apply/index.html"> 
-<span class="menu-text">Join Us!</span></a>
+    <a class="nav-link" href="./contact/index.html"> 
+<span class="menu-text">Contact Us!</span></a>
   </li>  
 </ul>
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
@@ -178,8 +211,13 @@ ul.task-list li input[type="checkbox"] {
 </div>
 </div>
 
-<section id="welcome-to-the-enar-cens-website" class="level1">
+<section id="welcome-to-the-enar-cens-website" class="level1" style="text-align: center">
 <h1>Welcome to the ENAR CENS website!</h1>
+</section>
+<section id="by-early-career-for-early-career" class="level4" style="color: #007ac2; text-align: center; font-style: italic">
+<h4 data-anchor-id="by-early-career-for-early-career">“By early career, for early career”</h4>
+</section>
+<p><span class="math inline">\(~\)</span></p>
 <p>The <strong>Council for Emerging and New Statisticians (CENS)</strong> was formed in 2012 by ENAR’s Regional Advisory Board (RAB) to help ENAR better address the needs of all students and recent graduates. On this website, you will find information about CENS and our members, as well as events and materials. We look forward to your involvement in ENAR CENS!</p>
 <div style="margin: 30px; text-align: center;">
 <a class="btn btn-primary" href="https://www.enar.org/" role="button" target="_blank" style="padding: 15px 30px;">Link to the ENAR website</a>
@@ -187,7 +225,6 @@ ul.task-list li input[type="checkbox"] {
 
 
 
-</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">

@@ -25,7 +25,16 @@ about:
 ::: {#about-block}
 :::
 
+
+::: {style="text-align: center" }
 # Welcome to the ENAR CENS website!
+:::
+
+::: {style="color: #007ac2; text-align: center; font-style: italic" }
+#### "By early career, for early career"
+:::
+
+$~$
 
 The **Council for Emerging and New Statisticians (CENS)** was formed in 2012 by ENAR's Regional Advisory Board (RAB) to help ENAR better address the needs of all students and recent graduates. On this website, you will find information about CENS and our members, as well as events and materials. We look forward to your involvement in ENAR CENS!
 

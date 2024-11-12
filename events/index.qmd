@@ -8,12 +8,20 @@ title: Events
 #### CENS Session at ENAR 2025: Collaboration 101: What a Scientist Seeks in a Statistician vs What a Statistician Seeks in a Scientist
 :::
 
-**Date and time TBD**
+**Monday, March 24, 2024 \| Time TBD**
 
 Scientific collaboration is a highly prized skill that one can develop through extensive learning and reflection. As graduate students and early-career professionals build up their portfolios, they will inevitably need to work with a colleague whose training differs from their own. This situation can often be challenging due to potential misalignments in project expectations, domain vocabulary, and end goals. As a group of emerging statisticians, CENS would like to invite statisticians and scientists at various career stages to discuss the “need-to-knows” of collaboration from diverse perspectives and successful interdisciplinary research. This topic will be of interest to all statisticians new to collaboration, and the different perspectives from the diverse backgrounds of our panelists reflect the 2025 ENAR meeting theme of “ENAR is Interdisciplinary”.
 
 This session aims to increase transparency in the collaborative process between scientists and statisticians. By providing attendees with perspectives from both scientists and statisticians, from both early-career and established researchers, this session improves understanding of the inner workings of scientific collaboration. With a special focus on highlighting early-career needs and identifying common pitfalls, attendees will gain valuable insights into effective communication in scientific collaboration and navigating interdisciplinary projects. 
 
+
+::: {style="color: #007ac2;"}
+#### CENS Networking Mixer at ENAR 2025
+:::
+
+**Monday, March 24, 2024 \| 5:30 PM - 6:30 PM**
+
+All students and recent graduates are invited to attend the CENS Networking Mixer. Registration is *not* required---so please plan to attend!
 
 ------------------------------------------------------------------------
 

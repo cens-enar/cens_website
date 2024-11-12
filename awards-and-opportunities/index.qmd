@@ -1,0 +1,28 @@
+---
+title: Awards and Opportunities
+---
+
+::: {style="color: #007ac2;"}
+#### ENAR Distinguished Student Paper Awards
+:::
+
+**Awarded annually at the ENAR Spring Meeting, entries due in October of the preceding year.**
+
+Up to twenty Distinguished Student Paper Awards are given each year to assist students and recent graduates in presenting contributed papers at the ENAR Spring Meeting. Each winner receives a certificate, reimbursement for travel expenses up to \$650, tuition waiver for one ENAR short course of choice, and an invitation to the Monday evening ENAR President's Reception. The author of the most outstanding paper also receives the John Van Ryzin Award, which includes an additional \$500 prize. Details and eligibility information is provided [here](https://www.enar.org/meetings/StudentPaperAwards/).
+
+
+::: {style="color: #007ac2;"}
+#### ASA Student and Early Career Travel Grant
+:::
+
+**Applications are due at least three months before the ASA conference for which support is requested.**
+
+The American Statistical Association (ASA) offers funding for students and early career statisticians participating in ASA-sponsored professional meetings (full list [here](https://www.amstat.org/meetings?hkey=4b891a2d-6f7d-4cb1-8f97-6ef6669784e0)). Both merit and financial need are considered when selecting grant recipients. Application details can be found [here](https://www.amstat.org/your-career/awards/student-and-early-career-travel-fund).
+
+::: {style="color: #007ac2;"}
+#### More Opportunities
+:::
+Check out the following lists of opportunities and awards from the ASA:   
+- [Awards and Opportunities](https://stattrak.amstat.org/category/news-and-announcements/awards/) list   
+- [Job Tr@k](https://stattrak.amstat.org/category/job/) for job and internship listings   
+- [Student Tr@k](https://stattrak.amstat.org/category/student/) for student-specific opportunities
