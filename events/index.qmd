@@ -27,9 +27,8 @@ All students and recent graduates are invited to attend the CENS Networking Mixe
 
 ## Past Events
 
-This is going to be a slideshow of past event photos once people send them to us!
+![](past-events.gif){style="margin-right: 15px;" width="500"}
 
-<div style="width:50%;height:0;padding-bottom:50%;position:relative;"><iframe src="https://giphy.com/embed/vR1dPIYzQmkRzLZk2w" width="50%" height="50%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/pudgypenguins-maintenance-under-construction-vR1dPIYzQmkRzLZk2w">via GIPHY</a></p>
 
 ::: {style="color: #007ac2;"}
 #### CENS Session at JSM 2024: Crafting Relevant Research: Informative and Translational Statistics for Public Policy
