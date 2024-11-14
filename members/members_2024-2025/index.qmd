@@ -1,168 +1,126 @@
 ---
 title: "Members"
+editor: 
+  markdown: 
+    wrap: 72
 ---
 
 ## CENS Committee
 
-<center>
-![](GIF.gif)
-</center>
+<center>![](GIF.gif)</center>
 
 ------------------------------------------------------------------------
 
 #### RAB Liaison
-![](headshots/mj-smith-headshot.png){style="float:left; margin-right: 15px;" width="100"}
-Melissa Smith\
-Assistant Professor of Biostatistics, University of Alabama at Birmingham\
 
+![](headshots/mj-smith-headshot.png){style="float:left; margin-right: 15px;"
+width="100"} Melissa Smith\
+Assistant Professor of Biostatistics, University of Alabama at
+Birmingham\
+\
+\
+\
+\
 
 ------------------------------------------------------------------------
 
 #### CENS Co-Chairs 2024-2025
 
-::: {layout-ncol=2}
-![](headshots/s-kulkarni-headshot.png){style="float:left; margin-right: 15px;" width="100"}
-Siddhesh Kulkarni\
+::: {layout-ncol="2"}
+![](headshots/s-kulkarni-headshot.png){style="float:left; margin-right: 15px;"
+width="100"} Siddhesh Kulkarni\
 Scientist, Bristol Meyers Squibb\
 
-![](headshots/xs-zhang-headshot.png){style="float:left; margin-right: 15px;" width="100"}
-Summer Zhang\
+![](headshots/xs-zhang-headshot.png){style="float:left; margin-right: 15px;"
+width="100"} Summer Zhang\
 Senior Biostatistician, Vertex Pharmaceuticals\
-
 :::
 
 ------------------------------------------------------------------------
 
 #### Steering Committee 2024-2025
 
-::: {layout-ncol=2}
-![](headshots/cl-brantner-headshot.png){style="float:left; margin-right: 15px;" width="100"}
-Carly Brantner\
-Assistant Professor, Department of Biostatistics and Bioinformatics, Duke University\
-
-
-![](headshots/g-hettinger-headshot.png){style="float:left; margin-right: 15px;" width="100"}
-Gary Hettinger\
+::: {layout-ncol="2"}
+![](headshots/cl-brantner-headshot.png){style="float:left; margin-right: 15px;"
+width="100"} Carly Brantner\
+Assistant Professor, Department of Biostatistics and Bioinformatics,
+Duke University\
+  
+![](headshots/g-hettinger-headshot.png){style="float:left; margin-right: 15px;"
+width="100"} Gary Hettinger\
 Ph.D. Candidate, University of Pennsylvania School of Medicine\
-
-
 :::
-
 
 ------------------------------------------------------------------------
 
 #### CENS Members 2024-2025
 
-![](headshots/KAH_Webb_headshot.jpg){style="float:left; margin-right: 15px;" width="100"} Kimberly Webb\
+![](headshots/KAH_Webb_headshot.jpg){style="float:left; margin-right: 15px;"
+width="100"} Kimberly Webb\
 Assistant Professor of Medicine, University of Pittsburgh\
 *Social Media Co-Chair*
-
-
-![](headshots/ae-mullan-headshot.png){style="float:left; margin-right: 15px;" width="100"} Ashley Mullan\
+\
+\
+\
+\
+![](headshots/ae-mullan-headshot.png){style="float:left; margin-right: 15px;"
+width="100"} Ashley Mullan\
 Ph.D. Student, Vanderbilt University\
 *Social Media Co-Chair*
-
-
-![](headshots/jr-bassler-headshot.png){style="float:left; margin-right: 15px;" width="100"} John Bassler\
-Clinical Database Manager II, Center for AIDS Research & DrPH Candidate, University of Alabama at Birmingham Department of Biostatistics
-
-![](headshots/jr-xiong-headshot.png){style="float:left; margin-right: 15px;" width="100"} Ruby Xiong\
+\
+\
+\
+![](headshots/jr-bassler-headshot.png){style="float:left; margin-right: 15px;"
+width="100"} John Bassler\
+Clinical Database Manager II, Center for AIDS Research & DrPH Candidate,
+University of Alabama at Birmingham Department of Biostatistics\
+\
+\
+\
+![](headshots/jr-xiong-headshot.png){style="float:left; margin-right: 15px;"
+width="100"} Ruby Xiong\
 Ph.D. Candidate, Vanderbilt University
-
-![](headshots/ra-tumasian-headshot.png){style="float:left; margin-right: 15px;" width="100"} Robert Tumasian III\
+\
+\
+\
+\
+![](headshots/ra-tumasian-headshot.png){style="float:left; margin-right: 15px;"
+width="100"} Robert Tumasian III\
 Mathematical Statistician, U.S. Food and Drug Administration
+\
+\
+\
+![](headshots/m-mccabe-headshot.png){style="float:left; margin-right: 15px;"
+width="100"} Megan McCabe\
+Assistant Professor of Biostatistics, University of Alabama at
+Birmingham
+\
+\
+\
 
-![](headshots/m-mccabe-headshot.png){style="float:left; margin-right: 15px;" width="100"} Megan McCabe\
-Assistant Professor of Biostatistics, University of Alabama at Birmingham
-
----------------------------------------------------------------------------
+------------------------------------------------------------------------
 
 #### Past Members
 
-::: {layout-ncol=2}
+::: {layout-ncol="2"}
+**2023-2024** Member A, Member B, Member C, Member D, Member E, Member
+F, Member G, Member H, Member I, Member J
 
-**2023-2024**
-Member A,
-Member B,
-Member C,
-Member D,
-Member E,
-Member F,
-Member G,
-Member H,
-Member I,
-Member J
+**2022-2023** Member A, Member B, Member C, Member D, Member E, Member
+F, Member G, Member H, Member I, Member J
 
-**2022-2023**
-Member A,
-Member B,
-Member C,
-Member D,
-Member E,
-Member F,
-Member G,
-Member H,
-Member I,
-Member J
+**2021-2022** Member A, Member B, Member C, Member D, Member E, Member
+F, Member G, Member H, Member I, Member J
 
-**2021-2022**
-Member A,
-Member B,
-Member C,
-Member D,
-Member E,
-Member F,
-Member G,
-Member H,
-Member I,
-Member J
+**2020-2021** Member A, Member B, Member C, Member D, Member E, Member
+F, Member G, Member H, Member I, Member J
 
-**2020-2021**
-Member A,
-Member B,
-Member C,
-Member D,
-Member E,
-Member F,
-Member G,
-Member H,
-Member I,
-Member J
+**2019-2020** Member A, Member B, Member C, Member D, Member E, Member
+F, Member G, Member H, Member I, Member J
 
-**2019-2020**
-Member A,
-Member B,
-Member C,
-Member D,
-Member E,
-Member F,
-Member G,
-Member H,
-Member I,
-Member J
+**2018-2019** Member A, Member B, Member C, Member D, Member E, Member
+F, Member G, Member H, Member I, Member J
 
-**2018-2019**
-Member A,
-Member B,
-Member C,
-Member D,
-Member E,
-Member F,
-Member G,
-Member H,
-Member I,
-Member J
-
-**2017-2018**
-Member A,
-Member B,
-Member C,
-Member D,
-Member E,
-Member F,
-Member G,
-Member H,
-Member I,
-Member J
+**2017-2018** Member A, Member B, Member C, Member D, Member E, Member
+F, Member G, Member H, Member I, Member J
 :::
-
