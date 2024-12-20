@@ -97,30 +97,3 @@ Birmingham
 \
 \
 \
-
-------------------------------------------------------------------------
-
-#### Past Members
-
-::: {layout-ncol="2"}
-**2023-2024** Member A, Member B, Member C, Member D, Member E, Member
-F, Member G, Member H, Member I, Member J
-
-**2022-2023** Member A, Member B, Member C, Member D, Member E, Member
-F, Member G, Member H, Member I, Member J
-
-**2021-2022** Member A, Member B, Member C, Member D, Member E, Member
-F, Member G, Member H, Member I, Member J
-
-**2020-2021** Member A, Member B, Member C, Member D, Member E, Member
-F, Member G, Member H, Member I, Member J
-
-**2019-2020** Member A, Member B, Member C, Member D, Member E, Member
-F, Member G, Member H, Member I, Member J
-
-**2018-2019** Member A, Member B, Member C, Member D, Member E, Member
-F, Member G, Member H, Member I, Member J
-
-**2017-2018** Member A, Member B, Member C, Member D, Member E, Member
-F, Member G, Member H, Member I, Member J
-:::

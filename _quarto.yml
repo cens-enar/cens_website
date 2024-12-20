@@ -23,8 +23,6 @@ website:
         href: events/index.qmd
       - text: "Awards and Opportunities"
         href: awards-and-opportunities/index.qmd
-      - text: "Materials"
-        href: materials/index.qmd
       - text: "Contact Us!"
         href: contact/index.qmd
     

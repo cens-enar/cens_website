@@ -1,9 +1,0 @@
----
-title: Materials
----
-
-## Previous Session Materials
-
-Slides from Session ABC
-
-Handouts from Session DEF

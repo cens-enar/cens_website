@@ -13,7 +13,7 @@ about:
       href: https://www.instagram.com/cens_enar/
     - icon: github
       text: Github
-      href: https://github.com/marvinschmitt
+      href: https://github.com/cens-enar
     - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/groups/12246846/
