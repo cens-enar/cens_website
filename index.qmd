@@ -1,45 +1,12 @@
 ---
-about:
-  template: jolla
-  image-shape: rectangle
-  id: about-block
-  image: "img/CENS_logo.png"
-  links:
-    - icon: twitter
-      text: Twitter
-      href: https://x.com/cens_enar
-    - icon: instagram
-      text: Instagram
-      href: https://www.instagram.com/cens_enar/
-    - icon: github
-      text: Github
-      href: https://github.com/cens-enar
-    - icon: linkedin
-      text: LinkedIn
-      href: https://www.linkedin.com/groups/12246846/
-    - icon: envelope
-      text: Email
-      href: "mailto:mail.cens.enar@gmail.com"  
+title: Contact Us!
 ---
 
-::: {#about-block}
-:::
+## Join our email list
+Please fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSd39dw4zWNiIuS-AqcjwaGuXWSEqSLBvPsx_NCJC8D492tTeA/viewform?usp=dialog) to be added to our email list. 
 
+## Join CENS
+We will be recruiting new members March-April 2025! Each member is appointed to a 2-year term. Within CENS, three or four people are chosen to participate in the steering committee, which reports to the RAB chair. Members of the steering committee will serve an additional year on CENS. CENS members will meet in person yearly at the ENAR Spring Meeting and participate in conference calls throughout the year to plan events and address issues as they arise. If you are interested in joining CENS, please email [enar.cens@gmail.com](enar.cens@gmail.com).
 
-::: {style="text-align: center" }
-# Welcome to the ENAR CENS website!
-:::
-
-::: {style="color: #007ac2; text-align: center; font-style: italic" }
-#### "By early career, for early career"
-:::
-
-$~$
-
-The **Council for Emerging and New Statisticians (CENS)** was formed in 2012 by ENAR's Regional Advisory Board (RAB) to help ENAR better address the needs of all students and recent graduates. On this website, you will find information about CENS and our members, as well as events and materials. We look forward to your involvement in ENAR CENS!
-
-```{=html}
-<div  style="margin: 30px; text-align: center;">
-<a class="btn btn-primary" href="https://www.enar.org/" role="button" target="_blank" style="padding: 15px 30px;">Link to the ENAR website</a>
-</div>
-```
+## Collaborate with CENS
+Do you have an event or opportunity for students and early career statisticians? We would love to advertise your event or opportunity to our members! Email [enar.cens@gmail.com](enar.cens@gmail.com) with information about your organization and opportunity, and we will be in touch discuss collaboration opportunities.  
