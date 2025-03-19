@@ -22,7 +22,9 @@ The American Statistical Association (ASA) offers funding for students and early
 ::: {style="color: #007ac2;"}
 #### More Opportunities
 :::
-Check out the following lists of opportunities and awards from the ASA:   
+Check out the following lists of opportunities and awards from the ASA:  
+
+- [ASA Career Connect](https://careerconnect.amstat.org/?_zs=bDgQm1&_zl=nfw5A) for job listings across government, industry, and academia  
 - [Awards and Opportunities](https://stattrak.amstat.org/category/news-and-announcements/awards/) list   
 - [Job Tr@k](https://stattrak.amstat.org/category/job/) for job and internship listings   
 - [Student Tr@k](https://stattrak.amstat.org/category/student/) for student-specific opportunities

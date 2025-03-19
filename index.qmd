@@ -5,6 +5,9 @@ about:
   id: about-block
   image: "img/CENS_logo.png"
   links:
+    - icon: cloud
+      text: Bluesky
+      href: https://bsky.app/profile/cens-enar.bsky.social
     - icon: twitter
       text: Twitter
       href: https://x.com/cens_enar

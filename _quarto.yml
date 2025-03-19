@@ -30,8 +30,8 @@ website:
     
     # your social media handles
     right:
-      - icon: twitter
-        href: https://x.com/cens_enar
+      - icon: cloud
+        href: https://bsky.app/profile/cens-enar.bsky.social
       - icon: instagram
         href: https://www.instagram.com/cens_enar/
       - icon: linkedin
