@@ -5,14 +5,14 @@ website:
   title: "CENS"                                # Your name
   description: "Council for Emerging and New Statisticians (CENS) within ENAR"   # A brief slogan (optional)
   image: img/ENAR Logo_1024x1024.png
-  
+
   favicon: img/CENS_logo.png
-  
+
   # start of the navigation bar at the top of the website
   navbar:
     pinned: true
     logo: /img/ENAR Logo_1024x1024.png
-    
+
     # your sub-pages
     left:
       - text: "About"
@@ -25,26 +25,26 @@ website:
         href: awards-and-opportunities/index.qmd
       - text: "Contact Us!"
         href: contact/index.qmd
-    
+
     # your social media handles
     right:
-      - icon: cloud
-        href: https://bsky.app/profile/cens-enar.bsky.social
+      - text: "{{< iconify ri:bluesky-fill>}}"
+        href: "https://bsky.app/profile/cens-enar.bsky.social"
       - icon: instagram
         href: https://www.instagram.com/cens_enar/
       - icon: linkedin
         href: https://www.linkedin.com/in/enar-cens-3a5341354/
       - icon: envelope
         aria-label: email
-        href: "mailto:mail.enar.cens@gmail.com"  
-  
-  
+        href: "mailto:mail.enar.cens@gmail.com"
+
+
 
 # Don't touch unless you know what you are doing :) ------------
-  search: 
+  search:
     location: navbar
     type: textbox
-  page-footer: 
+  page-footer:
     left: |
       <span class="faux-block">&#169; 2024 ENAR CENS CC BY-SA 4.0</span>
     right: |
@@ -54,7 +54,7 @@ project:
   type: website
   output-dir: docs
 
-  preview: 
+  preview:
     port: 22222
     browser: true
     watch-inputs: true
@@ -66,7 +66,7 @@ execute:
 format:
   html:
     fontsize: 1.1em
-    theme: 
+    theme:
       - pulse
       - html/styles.scss
     toc: false
