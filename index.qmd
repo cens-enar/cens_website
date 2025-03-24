@@ -19,7 +19,7 @@ about:
       href: https://github.com/marvinschmitt
     - icon: linkedin
       text: LinkedIn
-      href: https://www.linkedin.com/groups/12246846/
+      href: https://www.linkedin.com/in/enar-cens-3a5341354/
     - icon: envelope
       text: Email
       href: "mailto:mail.cens.enar@gmail.com"  
