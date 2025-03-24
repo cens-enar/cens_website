@@ -21,7 +21,7 @@ about:
       href: "https://www.linkedin.com/in/enar-cens-3a5341354/"
     - icon: envelope
       text: Email
-      href: "mailto:mail.cens.enar@gmail.com"  
+      href: "mailto:enar.cens@gmail.com"  
 ---
 
 ::: {#about-block}
