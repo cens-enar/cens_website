@@ -99,10 +99,20 @@ Birmingham
 \
 
 ------------------------------------------------------------------------
-
+<!--
 #### Past Members
 
 ::: {layout-ncol="2"}
+
+**2024-2025** 
+Co-Chairs: Siddhesh Kulkarni, Xingruo (Summer) Zhang
+
+Steering Committee: Carly Brantner, Gary Hettinger
+
+RAB Liaison: Melissa Smith 
+
+Members: John Bassler, Megan McCabe, Ashley Mullan, Robert Tumasian III, Kimberly Webb, Jiangmei (Ruby) Xiong 
+
 **2023-2024** Member A, Member B, Member C, Member D, Member E, Member
 F, Member G, Member H, Member I, Member J
 
@@ -124,3 +134,5 @@ F, Member G, Member H, Member I, Member J
 **2017-2018** Member A, Member B, Member C, Member D, Member E, Member
 F, Member G, Member H, Member I, Member J
 :::
+
+-->

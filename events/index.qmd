@@ -5,23 +5,10 @@ title: Events
 ## Upcoming Events
 
 ::: {style="color: #007ac2;"}
-#### CENS Session at ENAR 2025: Collaboration 101: What a Scientist Seeks in a Statistician vs What a Statistician Seeks in a Scientist
+#### CENS Session at JSM 2025: Beyond Academia - Exploring Statistics Careers in Industry, Government, and More
 :::
 
-**Monday, March 24, 2025 \| 1:45 pm - 3:30 pm CST**
-
-Scientific collaboration is a highly prized skill that one can develop through extensive learning and reflection. As graduate students and early-career professionals build up their portfolios, they will inevitably need to work with a colleague whose training differs from their own. This situation can often be challenging due to potential misalignments in project expectations, domain vocabulary, and end goals. As a group of emerging statisticians, CENS would like to invite statisticians and scientists at various career stages to discuss the “need-to-knows” of collaboration from diverse perspectives and successful interdisciplinary research. This topic will be of interest to all statisticians new to collaboration, and the different perspectives from the diverse backgrounds of our panelists reflect the 2025 ENAR meeting theme of “ENAR is Interdisciplinary”.
-
-This session aims to increase transparency in the collaborative process between scientists and statisticians. By providing attendees with perspectives from both scientists and statisticians, from both early-career and established researchers, this session improves understanding of the inner workings of scientific collaboration. With a special focus on highlighting early-career needs and identifying common pitfalls, attendees will gain valuable insights into effective communication in scientific collaboration and navigating interdisciplinary projects. 
-
-
-::: {style="color: #007ac2;"}
-#### CENS Networking Mixer at ENAR 2025
-:::
-
-**Monday, March 24, 2025 \| 5:30 PM - 6:30 PM CST**
-
-All students and recent graduates are invited to attend the CENS Networking Mixer. Registration is *not* required---so please plan to attend!
+**Tuesday, August 5, 2025 \| 10:30 AM - 12:20 PM CST** - [Abstract](abstracts/jsm25.qmd)
 
 ------------------------------------------------------------------------
 
@@ -29,6 +16,19 @@ All students and recent graduates are invited to attend the CENS Networking Mixe
 
 ![](past-events.gif){style="margin-right: 15px;" width="500"}
 
+::: {style="color: #007ac2;"}
+#### CENS Networking Mixer at ENAR 2025
+:::
+
+**Monday, March 24, 2025 \| 5:30 PM - 6:30 PM CST** - [Event Description](abstracts/mixer.qmd)
+
+
+::: {style="color: #007ac2;"}
+#### CENS Session at ENAR 2025: Collaboration 101: What a Scientist Seeks in a Statistician vs What a Statistician Seeks in a Scientist
+:::
+
+
+**Monday, March 24, 2025 \| 1:45 pm - 3:30 pm CST** - [Abstract](abstracts/enar25.qmd)
 
 ::: {style="color: #007ac2;"}
 #### CENS Session at JSM 2024: Crafting Relevant Research: Informative and Translational Statistics for Public Policy

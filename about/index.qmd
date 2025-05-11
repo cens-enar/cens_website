@@ -26,6 +26,7 @@ CENS seeks to advocate for the needs and concerns of students and recent graduat
 
 ------------------------------------------------------------------------
 
+<!--
 ## Testimonials
 
 "CENS rocks!"
@@ -39,3 +40,5 @@ Current member 1 - Current member's current position
 "CENS is fantastic and we love them!"
 
 ENAR leadership member 1 - leader's current role
+-->
+
