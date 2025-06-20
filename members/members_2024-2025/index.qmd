@@ -55,7 +55,7 @@ Ph.D. Candidate, University of Pennsylvania School of Medicine\
 
 #### CENS Members 2024-2025
 
-![](headshots/KAH_Webb_headshot.jpg){style="float:left; margin-right: 15px;"
+![](headshots/KAH_Webb_headshot.png){style="float:left; margin-right: 15px;"
 width="100"} Kimberly Webb\
 Assistant Professor of Medicine, University of Pittsburgh\
 *Social Media Co-Chair*
