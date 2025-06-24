@@ -3,6 +3,11 @@ title: "Members"
 editor: 
   markdown: 
     wrap: 72
+format:
+  html:
+    fontsize: 0.95em
+    grid:
+      body-width: 1000px
 ---
 
 ## CENS Committee
@@ -13,47 +18,74 @@ editor:
 
 #### RAB Liaison
 
-![](headshots/mj-smith-headshot.png){style="float:left; margin-right: 15px;"
-width="100"} Melissa Smith\
-Assistant Professor of Biostatistics, University of Alabama at
-Birmingham\
-\
-\
-\
-\
-
-------------------------------------------------------------------------
-
-#### CENS Co-Chairs 2024-2025
-
-::: {layout-ncol="2"}
-![](headshots/s-kulkarni-headshot.png){style="float:left; margin-right: 15px;"
-width="100"} Siddhesh Kulkarni\
-Scientist, Bristol Meyers Squibb\
-
 ![](headshots/xs-zhang-headshot.png){style="float:left; margin-right: 15px;"
 width="100"} Summer Zhang\
-Senior Biostatistician, Vertex Pharmaceuticals\
-:::
+Senior Biostatistician\
+Vertex Pharmaceuticals\
+\
+\
+\
 
 ------------------------------------------------------------------------
 
-#### Steering Committee 2024-2025
+#### CENS Co-Chairs 2025-2026
 
-::: {layout-ncol="2"}
+:::: {.columns}
+
+::: {.column width="55%"}
 ![](headshots/cl-brantner-headshot.png){style="float:left; margin-right: 15px;"
 width="100"} Carly Brantner\
-Assistant Professor, Department of Biostatistics and Bioinformatics,
+Assistant Professor\
+Department of Biostatistics and Bioinformatics\
 Duke University\
-  
+:::
+
+::: {.column width="1%"}
+<!-- empty column to create gap -->
+:::
+
+::: {.column width="44%"}
 ![](headshots/g-hettinger-headshot.png){style="float:left; margin-right: 15px;"
 width="100"} Gary Hettinger\
-Ph.D. Candidate, University of Pennsylvania School of Medicine\
+Interim Faculty\
+Department of Population Health\
+NYU Grossman School of Medicine\
 :::
+
+::::
+
 
 ------------------------------------------------------------------------
 
-#### CENS Members 2024-2025
+#### Steering Committee 2025-2026
+
+:::: {.columns}
+
+::: {.column width="55%"}
+![](headshots/jr-bassler-headshot.png){style="float:left; margin-right: 15px;"
+width="100"} John Bassler\
+Clinical Database Manager II, Center for AIDS Research\
+DrPH Candidate, Department of Biostatistics\
+University of Alabama at Birmingham\
+:::
+
+::: {.column width="1%"}
+<!-- empty column to create gap -->
+:::
+
+::: {.column width="44%"}
+![](headshots/ae-mullan-headshot.png){style="float:left; margin-right: 15px;"
+width="100"} Ashley Mullan\
+Ph.D. Student, Department of Biostatistics\
+Vanderbilt University\
+*Social Media Co-Chair*
+:::
+
+::::
+
+------------------------------------------------------------------------
+
+#### CENS Members 2025-2026
 
 ![](headshots/KAH_Webb_headshot.png){style="float:left; margin-right: 15px;"
 width="100"} Kimberly Webb\
@@ -63,30 +95,11 @@ Assistant Professor of Medicine, University of Pittsburgh\
 \
 \
 \
-![](headshots/ae-mullan-headshot.png){style="float:left; margin-right: 15px;"
-width="100"} Ashley Mullan\
-Ph.D. Student, Vanderbilt University\
-*Social Media Co-Chair*
-\
-\
-\
-![](headshots/jr-bassler-headshot.png){style="float:left; margin-right: 15px;"
-width="100"} John Bassler\
-Clinical Database Manager II, Center for AIDS Research & DrPH Candidate,
-University of Alabama at Birmingham Department of Biostatistics\
-\
-\
-\
+
 ![](headshots/jr-xiong-headshot.png){style="float:left; margin-right: 15px;"
 width="100"} Ruby Xiong\
 Ph.D. Candidate, Vanderbilt University
 \
-\
-\
-\
-![](headshots/ra-tumasian-headshot.png){style="float:left; margin-right: 15px;"
-width="100"} Robert Tumasian III\
-Mathematical Statistician, U.S. Food and Drug Administration
 \
 \
 \
@@ -97,6 +110,14 @@ Birmingham
 \
 \
 \
+\
+![](headshots/dummy-headshot.png){style="float:left; margin-right: 15px;"
+width="100"} New Person 1\
+Role, Org
+\
+\
+\
+
 
 ------------------------------------------------------------------------
 <!--
