@@ -18,7 +18,7 @@ website:
       - text: "About"
         href: about/index.qmd
       - text: "Members"
-        href: members/members_2024-2025/index.qmd
+        href: members/index.qmd
       - text: "Events"
         href: events/index.qmd
       - text: "Awards and Opportunities"
