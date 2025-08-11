@@ -4,17 +4,19 @@ title: Events
 
 ## Upcoming Events
 
-::: {style="color: #007ac2;"}
-#### CENS Session at JSM 2025: Beyond Academia - Exploring Statistics Careers in Industry, Government, and More
-:::
-
-**Tuesday, August 5, 2025 \| 10:30 AM - 12:20 PM CST** - [Abstract](abstracts/jsm25.qmd)
+Check back soon for details about CENS activities at ENAR 2026!
 
 ------------------------------------------------------------------------
 
 ## Past Events
 
 ![](past-events.gif){style="margin-right: 15px;" width="500"}
+
+::: {style="color: #007ac2;"}
+#### CENS Session at JSM 2025: Beyond Academia - Exploring Statistics Careers in Industry, Government, and More
+:::
+
+**Tuesday, August 5, 2025 \| 10:30 AM - 12:20 PM CST** - [Abstract](abstracts/jsm25.qmd)
 
 ::: {style="color: #007ac2;"}
 #### CENS Networking Mixer at ENAR 2025
