@@ -17,7 +17,16 @@ Please fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSd39dw4zWNi
 Do you have an event or opportunity for students and early career statisticians? We would love to advertise your event or opportunity to our members! Email [enar.cens@gmail.com](enar.cens@gmail.com) with information about your organization and opportunity, and we will be in touch discuss collaboration opportunities. 
 
 ## Join CENS
+We recruit new members in the spring. Each member is appointed to a 2-year term. Within CENS, three or four people are chosen to participate in the steering committee, which reports to the RAB chair. Members of the steering committee will serve an additional year on CENS. CENS members will meet in person yearly at the ENAR Spring Meeting and participate in conference calls throughout the year to plan events and address issues as they arise. If you are interested in joining CENS, stay tuned for the next cycle's application!
+
+
+<!--
+THIS IS A COMMENT OF THE OLD TEXTFROM WHEN WE RECRUITED
 We are recruiting new members! Each member is appointed to a 2-year term. Within CENS, three or four people are chosen to participate in the steering committee, which reports to the RAB chair. Members of the steering committee will serve an additional year on CENS. CENS members will meet in person yearly at the ENAR Spring Meeting and participate in conference calls throughout the year to plan events and address issues as they arise. If you are interested in joining CENS, please fill out the application below and send to [enar.cens@gmail.com](enar.cens@gmail.com) by June 16, 2025.
+-->
+
+<!--
+THIS IS WHAT WE GOT RID OF WHEN WE HID THE APPLICATION
 
 ```{css echo=FALSE}
 .embed-container {
@@ -48,4 +57,7 @@ We are recruiting new members! Each member is appointed to a 2-year term. Within
   <iframe src="`r rmarkdown::metadata$app$pdf`#toolbar=0" style="border: 0.5px;width: 100%;"></iframe>
 </div>
 ```
+
+-->
+
 
