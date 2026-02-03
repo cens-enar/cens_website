@@ -2,6 +2,12 @@
 title: Events
 ---
 
+```{=html}
+<div  style="margin: 30px; text-align: center;">
+<a class="btn btn-primary" href="first-timer-guide.qmd" role="button" target="_blank" style="padding: 15px 30px;"> Coming to ENAR 2026? Click here for our First Timer's Guide! </a>
+</div>
+```
+
 ## Upcoming Events
 
 ::: {style="color: #007ac2;"}

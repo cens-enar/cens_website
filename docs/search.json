@@ -116,14 +116,14 @@
     "href": "events/index.html",
     "title": "Events",
     "section": "",
-    "text": "Monday, March 16, 2026 | 1:45 PM - 3:30 PM EST - Abstract\n\n\n\nMonday, March 16, 2026 | 5:30 PM - 6:30 PM EST - Event Description\n\n\n\nTuesday, March 17, 2026 | 12:30 PM EST - Event Description"
+    "text": "Coming to ENAR 2026? Click here for our First Timer's Guide!"
   },
   {
     "objectID": "events/index.html#upcoming-events",
     "href": "events/index.html#upcoming-events",
     "title": "Events",
-    "section": "",
-    "text": "Monday, March 16, 2026 | 1:45 PM - 3:30 PM EST - Abstract\n\n\n\nMonday, March 16, 2026 | 5:30 PM - 6:30 PM EST - Event Description\n\n\n\nTuesday, March 17, 2026 | 12:30 PM EST - Event Description"
+    "section": "Upcoming Events",
+    "text": "Upcoming Events\n\nCENS Session at ENAR 2026: Converting AI from a Buzzword to a Tangible Skill - Dos and Don’ts for Early-Career Statisticians\n\nMonday, March 16, 2026 | 1:45 PM - 3:30 PM EST - Abstract\n\nCENS Networking Mixer at ENAR 2026\n\nMonday, March 16, 2026 | 5:30 PM - 6:30 PM EST - Event Description\n\nCENS Networking Lunch at ENAR 2026\n\nTuesday, March 17, 2026 | 12:30 PM EST - Event Description"
   },
   {
     "objectID": "events/index.html#past-events",
@@ -187,5 +187,26 @@
     "title": "Converting AI from a Buzzword to a Tangible Skill - Dos and Don’ts for Early-Career Statisticians",
     "section": "",
     "text": "AI skills are fashionable to include on a resume or CV, but what AI-related skills truly matter for early-career biostatisticians? As students and recent graduates enter careers that demand AI-related knowledge, it is crucial that AI is not just a buzzword in a job application. Statisticians require guidance on the tangible AI skills that will enhance their careers in industry, academia, government, and beyond. Given this need, ENAR’s Council for Emerging and New Statisticians (CENS) is providing a panel session featuring four experts with various roles and experience implementing AI. The discussion will cover three central themes: AI as a skill for statistical analysis, AI as a skill for improving productivity and workflows, and AI as a means for showcasing skills and accomplishments. Our panelists will expound on best practices, ethical considerations, and resources that early-career statisticians could use to advance their AI-related skills. Panelists will specifically consider that our audience may contain many who have little to no experience with the topics and ensure that the discussion remains accessible to our broad target audience, regardless of their experience level."
+  },
+  {
+    "objectID": "events/first-timer-guide.html",
+    "href": "events/first-timer-guide.html",
+    "title": "The CENS First Timer’s Guide to ENAR 2026",
+    "section": "",
+    "text": "text"
+  },
+  {
+    "objectID": "events/first-timer-guide.html#advice-number-1",
+    "href": "events/first-timer-guide.html#advice-number-1",
+    "title": "The CENS First Timer’s Guide to ENAR 2026",
+    "section": "",
+    "text": "text"
+  },
+  {
+    "objectID": "events/first-timer-guide.html#advice-number-2",
+    "href": "events/first-timer-guide.html#advice-number-2",
+    "title": "The CENS First Timer’s Guide to ENAR 2026",
+    "section": "Advice Number 2",
+    "text": "Advice Number 2\ntext"
   }
 ]
