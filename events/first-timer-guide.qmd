@@ -2,10 +2,133 @@
 title: The CENS First Timer's Guide to ENAR 2026
 ---
 
-## Advice Number 1
+## Plan your schedule in advance
 
-text
+Before sessions get started, browse the scientific program (link) and conference schedule (link) to map out the sessions you want to attend. It's also smart to pick a backup session for each time slot in case your first choice doesn't work out! Rooms can fill up quickly, talks sometimes run over, or you might simply change your mind once you see what's happening nearby. There are typically 15 minutes between sessions, so preparing a plan beforehand can help during conference day.
 
-## Advice Number 2
+The ENAR conference app makes it easy to build your personal schedule and get reminders throughout the day. Download it before you arrive!
 
-text
+## What to do on your first day
+
+Welcome to ENAR! We’re so glad you’re here! On your first day, start by visiting the registration desk to pick up your credentials! There will be maps nearby to help you get oriented with the conference venue. Look out for the spots that you’ll need to find later in the conference. 
+
+For example, speakers might want to look for the rooms they’re scheduled to give talks in. First time attendees might want to bookmark the room of the First-Timer’s Mixer!
+
+Check back soon for details on Registration Hours.
+
+## Stay connected
+
+Meet someone new each day! This could look like introducing yourself to speakers you admire and asking them a question, joining groups chatting in common spaces, or walking up to an expo table or cool poster. Conference connections can be long-lasting and turn into mentorship, collaborations, or career opportunities. Don't be afraid to go right up to someone new and introduce yourself!
+
+In the digital space, don't forget to follow the CENS and ENAR social accounts on social media for live updates during the conference and to learn more about opportunities we offer throughout the year.
+
+* Instagram: @cens_enar and @enar_ibs
+* LinkedIn: [ENAR](https://www.linkedin.com/company/eastern-north-american-region-enar/posts/?feedView=all) and [CENS](https://www.linkedin.com/in/enar-cens-3a5341354/)
+* Bluesky: [ENAR](https://bsky.app/profile/enar-ibs.bsky.social) and [CENS](https://bsky.app/profile/cens-enar.bsky.social)
+* Facebook: [ENAR](https://www.facebook.com/enar.ibs)
+* Email: enar.cens@gmail.com
+
+## Dress for success
+
+First impressions are important. ENAR is a professional conference, so we recommend aiming for business casual or smart casual. You want to feel confident meeting new people while staying comfortable throughout the day. Here are a few tips for your packing list:
+
+* Slacks, khakis, blouses, collared shirts, or professional dresses are all great choices. A blazer is also nice. A full suit isn't required unless that’s your preference! 
+* You will likely be doing a lot of walking and standing between sessions and networking events, so be sure to prioritize comfortable shoes. 
+* If needed, bring a light layer so you stay comfortable in the air-conditioned area
+* Check the weather and bring a jacket if needed.
+
+## Don't miss these opportunities 
+
+ENAR is more than a series of talks. Below are some highlighted events that you don’t want to miss:  
+
+#### Sunday, March 15
+
+**New Member Reception** - 7:30pm-8:00pm
+
+Meet other first-time attendees and get the inside scoop about the conference! 
+
+**Opening Mixer & Poster Session** - 8:00pm-11:00pm 
+
+Don’t be deterred by the late time, this is a highly popular event! Enjoy refreshments, catch up with colleagues, meet new people, and walk around poster displays to interact with other researchers. The RAB Poster Competition also takes place during this time, so go cheer on your friends! 
+
+#### Monday, March 16
+
+ **CENS Invited/Spotlight Session** - 1:45pm-3:30pm
+
+Learn the dos and don’ts for using AI as an early-career statistician at this panel discussion. 
+
+**CENS Networking Mixer** - 5:30pm-6:30pm
+
+Hosted by CENS, this mixer is open to students and recent graduates. It’s a fun, welcoming space to meet fellow early-career statisticians and connect with CENS members, with ice-breaker activities (including bingo!) to help get conversations started. Food will be served! 
+
+#### Tuesday, March 17th 
+
+**Presidential Invited Debate, Recognition & Awards** - 10:30am-12:15pm
+
+The 2026 Presidential Invited Address will take the form of a debate featuring Dr. Tianxi Cai (Harvard University) and Dr. Marylyn Ritchie (University of Pennsylvania) on “AI Alone Is Not Enough: Advancing EHR Research Demands Statistical Rigor.” ENAR awards will also be presented during this session, so please join to celebrate the winners! 
+
+**CENS Lunch** - 12:30pm
+
+Small-group lunches for students and early-career attendees will be organized based on shared interests. This is a relaxed way to meet new people and grow your network! Register in advance (lunch is at your own expense)! 
+
+
+**IDEA & CENS Townhall** - 5:45pm - 6:30pm 
+
+This townhall provides an open forum to hear from ENAR leadership, share experiences, learn about available support and resources, and contribute to ongoing conversations within the ENAR community.
+
+#### Additional opportunities
+
+**Career Placement Center** - Interested in a career in biometrics? The Career Placement Center is a great place to get started or get ahead. Many employers attend ENAR each year to meet potential candidates, making this a valuable opportunity to explore job options and make professional connections. Advance registration required! 
+
+**Affinity groups** - Affinity groups bring together ENAR members who share common interests, identities, or goals and serve as an important channel for community-building. Be on the lookout for affinity group events announced closer to the meeting.
+
+## Let your plans be flexible
+
+Even if you’ve carefully planned out every session of the conference, don’t feel pressured to follow your schedule to the letter. If you find yourself in a great conversation or presented with the chance to meet someone you admire – go for it! Some of the most valuable conference experiences often happen outside of scheduled talks and sessions. That said, if your schedule includes a formal commitment such as chairing a session or presenting a talk, it is important to stick to those plans! 
+
+## Explore the city
+
+Pick out restaurants or places to explore in Indianapolis while you’re in town. Don’t forget to invite the new friends and connections you made at ENAR!
+
+Some recommendations from CENS include:
+
+**For breakfast:** Cafe Patachou is an award-winning cafe just steps from the conference center
+
+**For lunch:** Enjoy a legendary sandwich from Shapiro’s Deli on Meridian Street – it’s America’s oldest single family deli
+
+**For dinner:** The Amp at 16 Tech is a great place to bring a crowd with 20+ vendors in a large food hall
+
+**For fun:** Take a tour of the Indianapolis Motor Speedway, including a ride around the 2.5 mile track 
+
+## For Speakers
+
+If you’re presenting at a session, congratulations! Practice your talk with a timer and upload your presentation before your session. Your session chair is responsible for introducing speakers, keeping time, and facilitating questions. Look for an email from your session chair with specific instructions and deadlines for submitting slides, brief introductions, and other necessary info for your talk. Presentations that run long can cut into Q&A time, so timing matters! 
+
+Make sure to:
+
+* Check your session details - contributed talks are typically 15 minutes long including Q&A.
+* Find your space early!
+* Arrive a few minutes early to test the A/V setup in your session room and introduce yourself to your session chair.
+* Bring a USB drive with your slides just in case!
+* Budget some time to stick around and chat with audience members for additional Q&A after your session.
+
+## Follow up on your connections
+
+The conference will end, but your new professional relationships are just the beginning! Taking a few small steps to follow up can turn a brief meeting into a meaningful professional network. By reaching out while the energy of the event is still fresh, you can ensure these connections continue to grow. 
+
+* Take a quick picture of your new friend's badge (with their permission!) to help you remember who to reach out to later.
+* Send a LinkedIn (or another platform) connection request while the conversation is still fresh in your mind. 
+* Follow up with a short email to thank your new connections for their time or to share resources you discussed.
+* Staying in touch leads to future research collaborations, internships, and job opportunities. It also makes it easier to reconnect at future events!your
+* Keep a list on your phone or a small notebook with you to help you keep track of your notes from the conference. You might want to include linnks to slides, topics to explore, papers to read, or new connections to reach out to.
+
+
+## Be confident about your work!
+
+The ENAR community is so excited to learn about the work you do! Your research contributions bring variety and depth to the field, and we encourage you to share them with well-earned confidence. Who knows, this could be the presentation that puts your next opportunity on your radar!
+
+
+
+
+
+
