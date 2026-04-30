@@ -21,73 +21,77 @@ Check back soon for details on CENS events at JSM 2026!
 ## Past Events
 
 ![](past-events.gif){style="margin-right: 15px;" width="500"}
+
 ::: {.panel-tabset}
 
 ### 2026
-::: {style="color: #007ac2;"}
+
+In 2026, we released a [First Timer's Guide](first-timer-guide.qmd) to help new attendees make the most of their experience!
+
+:::: {style="color: #007ac2;"}
 #### CENS Session at ENAR 2026: Converting AI from a Buzzword to a Tangible Skill - Dos and Don'ts for Early-Career Statisticians
-:::
+::::
 
 **Monday, March 16, 2026 \| 1:45 PM - 3:30 PM EST** - [Abstract](abstracts/enar26.qmd)
 
-::: {style="color: #007ac2;"}
+:::: {style="color: #007ac2;"}
 #### CENS Networking Mixer at ENAR 2026
-:::
+::::
 
-**Monday, March 16, 2026 \| 5:30 PM - 6:30 PM EST** - [Event Description](abstracts/mixer.qmd) - [First Timer's Guide](first-timer-guide.qmd)
+**Monday, March 16, 2026 \| 5:30 PM - 6:30 PM EST** - [Event Description](abstracts/mixer.qmd) 
 
-::: {style="color: #007ac2;"}
+:::: {style="color: #007ac2;"}
 #### CENS Networking Lunch at ENAR 2026
-:::
+::::
 
 **Tuesday, March 17, 2026 \| 12:30 PM EST**  - [Event Description](abstracts/networking_lunch.qmd)
 
 ### 2025
 
-::: {style="color: #007ac2;"}
+:::: {style="color: #007ac2;"}
 #### CENS Session at JSM 2025: Beyond Academia - Exploring Statistics Careers in Industry, Government, and More
-:::
+::::
 
 **Tuesday, August 5, 2025 \| 10:30 AM - 12:20 PM CST** - [Abstract](abstracts/jsm25.qmd)
 
-::: {style="color: #007ac2;"}
+:::: {style="color: #007ac2;"}
 #### CENS Networking Mixer at ENAR 2025
-:::
+::::
 
 **Monday, March 24, 2025 \| 5:30 PM - 6:30 PM CST** - [Event Description](abstracts/mixer.qmd)
 
 
-::: {style="color: #007ac2;"}
+:::: {style="color: #007ac2;"}
 #### CENS Session at ENAR 2025: Collaboration 101: What a Scientist Seeks in a Statistician vs What a Statistician Seeks in a Scientist
-:::
+::::
 
 
 **Monday, March 24, 2025 \| 1:45 pm - 3:30 pm CST** - [Abstract](abstracts/enar25.qmd)
 
 ### 2024 
 
-::: {style="color: #007ac2;"}
+:::: {style="color: #007ac2;"}
 #### CENS Session at JSM 2024: Crafting Relevant Research: Informative and Translational Statistics for Public Policy
-:::
+::::
 
 **Thursday, August 8, 2024 \| 10:30 AM -- 12:20 PM** - [Abstract](abstracts/jsm24.qmd)
 
 
-::: {style="color: #007ac2;"}
+:::: {style="color: #007ac2;"}
 #### CENS Session at ENAR 2024: Paths to Success: Perspectives from Recruiters and Hiring Committees with a Focus on Fostering Inclusivity and Equity
-:::
+::::
 
 **Monday, March 11, 2024 \| 3:45 PM -- 5:30 PM** - [Abstract](abstracts/enar24.qmd)
 
-::: {style="color: #007ac2;"}
+:::: {style="color: #007ac2;"}
 #### ENAR Networking Mixer
-:::
+::::
 
 **Monday, March 11, 2024 \| 5:30 PM - 6:30 PM** - [Event Description](abstracts/mixer.qmd)
 
-::: {style="color: #007ac2;"}
+:::: {style="color: #007ac2;"}
 #### ENAR Networking Lunch
-:::
+::::
 
 **Tuesday, March 12, 2024 \| 12:30 PM - 1:30 PM**  - [Event Description](abstracts/networking_lunch.qmd)
 
