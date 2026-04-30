@@ -14,7 +14,12 @@ title: Events
 
 ## Upcoming Events
 
-Check back soon for details on CENS events at JSM 2026!
+:::: {style="color: #007ac2;"}
+#### CENS Session at JSM 2026: Connecting for Impact - Social Media, Coffee Chats, and Beyond
+::::
+
+**Sunday, August 2, 2026 \| 4:00 PM - 5:50 PM EST** - [Abstract](abstracts/jsm26.qmd)
+
 
 
 
@@ -26,7 +31,7 @@ Check back soon for details on CENS events at JSM 2026!
 
 ### 2026
 
-In 2026, we released a [First Timer's Guide](first-timer-guide.qmd) to help new attendees make the most of their experience!
+In 2026, we released a [First Timer's Guide](first-timer-guide.qmd) to help new ENAR attendees make the most of their experience!
 
 :::: {style="color: #007ac2;"}
 #### CENS Session at ENAR 2026: Converting AI from a Buzzword to a Tangible Skill - Dos and Don'ts for Early-Career Statisticians
