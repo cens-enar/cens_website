@@ -2,11 +2,15 @@
 title: Events
 ---
 
+<!--
 ```{=html}
 <div  style="margin: 30px; text-align: center;">
 <a class="btn btn-primary" href="first-timer-guide.qmd" role="button" target="_blank" style="padding: 15px 30px;"> Coming to ENAR 2026? Click here for our First Timer's Guide! </a>
 </div>
 ```
+-->
+
+
 
 ## Upcoming Events
 
@@ -28,7 +32,7 @@ Check back soon for details on CENS events at JSM 2026!
 #### CENS Networking Mixer at ENAR 2026
 :::
 
-**Monday, March 16, 2026 \| 5:30 PM - 6:30 PM EST** - [Event Description](abstracts/mixer.qmd)
+**Monday, March 16, 2026 \| 5:30 PM - 6:30 PM EST** - [Event Description](abstracts/mixer.qmd) - [First Timer's Guide](first-timer-guide.qmd)
 
 ::: {style="color: #007ac2;"}
 #### CENS Networking Lunch at ENAR 2026
