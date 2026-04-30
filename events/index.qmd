@@ -21,7 +21,9 @@ Check back soon for details on CENS events at JSM 2026!
 ## Past Events
 
 ![](past-events.gif){style="margin-right: 15px;" width="500"}
+::: {.panel-tabset}
 
+### 2026
 ::: {style="color: #007ac2;"}
 #### CENS Session at ENAR 2026: Converting AI from a Buzzword to a Tangible Skill - Dos and Don'ts for Early-Career Statisticians
 :::
@@ -40,6 +42,7 @@ Check back soon for details on CENS events at JSM 2026!
 
 **Tuesday, March 17, 2026 \| 12:30 PM EST**  - [Event Description](abstracts/networking_lunch.qmd)
 
+### 2025
 
 ::: {style="color: #007ac2;"}
 #### CENS Session at JSM 2025: Beyond Academia - Exploring Statistics Careers in Industry, Government, and More
@@ -60,6 +63,8 @@ Check back soon for details on CENS events at JSM 2026!
 
 
 **Monday, March 24, 2025 \| 1:45 pm - 3:30 pm CST** - [Abstract](abstracts/enar25.qmd)
+
+### 2024 
 
 ::: {style="color: #007ac2;"}
 #### CENS Session at JSM 2024: Crafting Relevant Research: Informative and Translational Statistics for Public Policy
@@ -86,4 +91,4 @@ Check back soon for details on CENS events at JSM 2026!
 
 **Tuesday, March 12, 2024 \| 12:30 PM - 1:30 PM**  - [Event Description](abstracts/networking_lunch.qmd)
 
-
+:::
